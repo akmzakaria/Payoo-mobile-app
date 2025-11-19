@@ -33,7 +33,7 @@ No installation required.
 Just clone and open in a browser.
 
 ### 1. Clone the repository
-git clone https://github.com/akmzakaria/payoo-app.git
+git clone https://github.com/akmzakaria/Payoo-mobile-app.git
 
 ### 2. Open the project
 
